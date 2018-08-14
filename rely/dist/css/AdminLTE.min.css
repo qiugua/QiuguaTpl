@@ -5250,7 +5250,7 @@ table.text-center,table.text-center td,table.text-center th {
 		background: #fafafa;
 		border-bottom: solid 2px #2c3e50;
 		font-size: 12px;
-		border-top: 1px solid #ddd
+		/* border-top: 1px solid #ddd */
 	}
 
 	.content-tabs .roll-nav {
@@ -5304,7 +5304,7 @@ table.text-center,table.text-center td,table.text-center th {
 	.content-tabs .page-tabs a {
 		display: block;
 		float: left;
-		border-right: solid 0px #ddd;
+		border-right: solid 1px #ddd;
 		padding: 0 15px;
 		padding-right: 8px;
 		text-decoration: none;
@@ -5317,6 +5317,7 @@ table.text-center,table.text-center td,table.text-center th {
 
 	.content-tabs .page-tabs a i {
 		margin-top: -10px;
+		padding-left: 5px;
 		right: 0px;
 		position: relative;
 		color: #999
