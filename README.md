@@ -1,11 +1,11 @@
 # QiuguaTpl
 
 #### 项目介绍
-QiuguaTpl（秋瓜模板）是一套网页模板。QiuguaTpl参考AdminLTE 2.4.5开发，目前此项目属于个人学习笔记。
+QiuguaTpl（秋瓜模板）是一套网页模板。QiuguaTpl参考AdminLTE开发，目前此项目属于个人学习笔记。
 
 
-#### 软件架构
-软件架构说明
+#### 目标
+只有发现BUG，哪怕是一字符也要修复。
 
 
 #### 安装教程
